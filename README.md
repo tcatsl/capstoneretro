@@ -1,6 +1,6 @@
 # capstone retro
 
-a retro for e-zchai
+> a retro for e-zchai
 
 
 # start
