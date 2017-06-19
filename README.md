@@ -5,7 +5,7 @@
 
 # start
 
-- Automated testing
+- automated testing
 - thoroughly reviewing user stories before accepting them
 - implementing service worker
 - making wireframes
